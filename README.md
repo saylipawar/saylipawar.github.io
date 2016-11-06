@@ -1,2 +1,2 @@
 # saylipawar.github.io
-My Websote
+My Website
